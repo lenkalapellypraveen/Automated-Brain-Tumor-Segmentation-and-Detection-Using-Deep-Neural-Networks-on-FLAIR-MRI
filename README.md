@@ -1,1 +1,1 @@
-# Automated-Brain-Tumor-Segmentation-and-Detection-Using-Deep-Neural-Networks-on-FLAIR-MRI
+Developed an advanced deep learning framework using U-Net architecture for automatic segmentation of brain tumors from MR FLAIR images. Incorporated superpixels to enhance detection accuracy and precision, especially in delineating tumor margins. Preliminary tests and predicted results indicated significant improvements in segmentation precision, demonstrating the combined effectiveness of U-Net and superpixel techniques.
